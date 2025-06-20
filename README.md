@@ -65,7 +65,7 @@ Multiclass classification output : Crop name
 
 ## Accuracy Comparision of different ML Model
 
-![Accuracy](https://user-images.githubusercontent.com/55681638/146889909-537c3c6a-fa37-4cb0-bd9d-da196e7d95f2.png)
+![Accuracy](https://github.com/harshjs1/Crop_Recommendation_Model/blob/main/Plots/Accuracy.png)
 
 
 
